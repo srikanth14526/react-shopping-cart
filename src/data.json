@@ -5,7 +5,7 @@
             "image": "images/pcb.jpg",
             "title": "Product Title",
             "description": "description about dress",
-            "availableSizes": ["X", "L", "XL", "XXL"],
+            "availableSizes": ["S","X", "L", "XL", "XXL"],
             "price": 19.9
         },
         {
@@ -37,7 +37,7 @@
             "image": "images/pic11.jpg",
             "title": "Product Title",
             "description": "description about dress",
-            "availableSizes": [ "L", "XL"],
+            "availableSizes": ["XS", "L", "XL"],
             "price": 9.9
         },
         {
@@ -45,7 +45,7 @@
             "image": "images/pic1.jpg",
             "title": "Product Title Will Be Here",
             "description": "description about dress",
-            "availableSizes": [ "L", "XL"],
+            "availableSizes": ["S","XS", "L", "XL"],
             "price": 9.9
         },
         {
@@ -59,9 +59,9 @@
         {
             "_id": "gress8",
             "image": "images/pic1.jpg",
-            "title": "Product Title Will Be Here",
+            "title": "Product Title Will Be Herem",
             "description": "description about dress",
-            "availableSizes": [ "L", "XL"],
+            "availableSizes": [ "L", "M", "XL"],
             "price": 9.9
         }
     ]
